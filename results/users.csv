@@ -1,0 +1,3 @@
+﻿id,M_username,email,password,is_admin,M_assignment_by_image_id,anno_index,anno_bbox_index,user_color,log
+1,RL,lirui9601@gmail.com,$2b$12$yaBMHKMW082xxN2pN.3xZu1Z/FA6Tunjb1mNY6KPzD8lDNRybbAbS,1,I2;I3;I1,2,2,,
+2,ZQ,,123456,0,I1;I2;I3,0,0,,

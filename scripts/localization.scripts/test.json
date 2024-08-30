@@ -1,0 +1,26 @@
+[
+    {
+        "L": 370,
+        "R": 580,
+        "T": 188,
+        "B": 314,
+        "label_id": "lab_2",
+        "label_type": "human"
+    },
+    {
+        "L": 57,
+        "R": 574,
+        "T": 59,
+        "B": 128,
+        "label_id": "lab_7",
+        "label_type": "human"
+    },
+    {
+        "L": 325,
+        "R": 585,
+        "T": 391,
+        "B": 751,
+        "label_id": "lab_4",
+        "label_type": "human"
+    }
+]

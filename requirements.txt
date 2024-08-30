@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+flask_bcrypt
+flask_login
+sqlalchemy
+flask_sqlalchemy
+flask_wtf
+email_validator
+matplotlib
+pandas
+###### Requirements with Version Specifiers ######
+Flask>=2.0 
