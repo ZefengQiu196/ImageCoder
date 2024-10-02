@@ -1,4 +1,4 @@
-# ImageCoder
+# ImageCoder-V2
 
 **ImageCoder** is a web-based open-source image annotation tool for researchers in scientific disciplines to annotate images whose initial category codes may not be well defined and/or are influenced by experts' knowledge.
 
